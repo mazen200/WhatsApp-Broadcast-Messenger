@@ -238,3 +238,11 @@ Potential improvements for future versions:
 - Advanced contact filtering
 - Delivery reports
 - Multi-language support
+
+
+![WhatsApp Image 2025-10-27 at 22 32 28_6204ce81](https://github.com/user-attachments/assets/9207c595-8c4a-4336-8c07-f0fab381ed9b)
+
+![WhatsApp Image 2025-10-27 at 22 33 20_202134eb](https://github.com/user-attachments/assets/315cad0d-6611-4cea-a215-e8682ff3d8e5)
+
+![WhatsApp Image 2025-10-27 at 22 34 04_8573b13f](https://github.com/user-attachments/assets/07225645-6978-4ac0-93a0-47ce240a9860)
+
